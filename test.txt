@@ -1,1 +1,2 @@
 This is testing
+I am also testing with release-1.0
